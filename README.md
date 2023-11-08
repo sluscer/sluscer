@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sluscer
-- 👀 Python web developer alanında ilerlemek istiyorum
-- 🌱 Temelden python dili öğreniyorum
+- 👀Full-Stack Web Developer alanında ilerlemek istiyorum
+- 🌱 
 - 📫
 
 <!---
